@@ -28,5 +28,3 @@ Covers **Gradient Descent, Regression & Classification, Data Preprocessing, Neur
 - **Assignment 4**: **Deep Learning Image Classification Project** using CNNs.  
 
 ---
-
-This structured and concise **GitHub portfolio introduction** highlights key concepts and technical skills covered in your coursework. 🚀
